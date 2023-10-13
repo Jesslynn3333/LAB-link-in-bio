@@ -1,11 +1,12 @@
-body
+
 
 h1,p{
   font-style: oblique;
+  color: antiquewhite;
 }
 body{
   text-align: center;
-  background-color: bisque;
+  background-image: url(https://t4.ftcdn.net/jpg/01/36/06/53/360_F_136065313_hQ1qbl9y50N3sm5GdamfL2hViYWyc2oA.jpg);
 }
 img{
   border-radius: 100%;
