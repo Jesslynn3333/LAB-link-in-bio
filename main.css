@@ -1,0 +1,32 @@
+body
+
+h1,p{
+  font-style: oblique;
+}
+body{
+  text-align: center;
+  background-color: bisque;
+}
+img{
+  border-radius: 100%;
+width: 120px;
+}
+.link-bio{
+  list-style: none;
+  padding: 0%;
+}
+.link-bio > li {
+margin: 50px 0 50px 0;
+}
+.link-bio > li > a { 
+color: aliceblue;
+text-decoration: none;
+text-align: center;
+background: black;
+border-radius: 30px;
+padding: 15px;
+margin: 30px;
+width: 360px;
+display: block;
+margin:  0 auto;
+}
